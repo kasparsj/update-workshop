@@ -10,6 +10,8 @@
 
 # TidalCycles
 
+[Boot script (custom shortcuts and functions)](BootTidal)
+
 ## Estuary
 
 Multi-user TidalCycles live coding online
@@ -17,8 +19,6 @@ Multi-user TidalCycles live coding online
 https://estuary.mcmaster.ca/
 
 [miditidal-samples](miditidal-samples)
-
-## Boot script (custom shortcuts and functions)
 
 ## Much more drummachine samples
 
