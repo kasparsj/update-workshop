@@ -2,7 +2,7 @@
 
 ## DMX lighting
 
-(dmx-lighting.scd)[dmx-lighting.scd]
+[dmx-lighting.scd](dmx-lighting.scd)
 
 # TidalCycles
 
