@@ -45,4 +45,6 @@ https://github.com/kasparsj/Sensor2OSC/
 
 ### SensorVisualizer app
 
+Also includes Arduino (M5StickC) code for sending motion sensor data.
+
 https://github.com/kasparsj/SensorVisualizer
