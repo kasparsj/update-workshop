@@ -40,3 +40,7 @@ https://github.com/ritchse/tidal-drum-machines
 ### Android app
 
 [app-debug.apk](app-debug.apk)
+
+### SensorVisualizer app
+
+https://github.com/kasparsj/SensorVisualizer
