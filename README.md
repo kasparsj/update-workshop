@@ -6,6 +6,12 @@
 
 # TidalCycles
 
+## Estuary
+
+https://estuary.mcmaster.ca/
+
+[miditidal-samples](miditidal-samples)
+
 ## Much more drummachine samples
 
 https://github.com/ritchse/tidal-drum-machines
