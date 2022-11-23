@@ -1,4 +1,4 @@
-# Live-coding working at Update media art festival (11.2022)
+# Live-coding workshop at Update media art festival (11.2022)
 
 https://update.mplab.lv/
 
