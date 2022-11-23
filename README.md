@@ -1,18 +1,22 @@
-# SuperCollider
+# Live-coding working at Update media art festival (11.2022)
 
-## Startup file
+https://update.mplab.lv/
+
+## SuperCollider
+
+### Startup file
 
 [startup.scd](startup.scd)
 
-## DMX lighting
+### DMX lighting
 
 [dmx-lighting.scd](dmx-lighting.scd)
 
-# TidalCycles
+## TidalCycles
 
 [Boot script (custom shortcuts and functions)](BootTidal)
 
-## Estuary
+### Estuary
 
 Multi-user TidalCycles live coding online
 
@@ -20,7 +24,7 @@ https://estuary.mcmaster.ca/
 
 [miditidal-samples](miditidal-samples)
 
-## Much more drummachine samples
+### Much more drummachine samples
 
 https://github.com/ritchse/tidal-drum-machines
 
@@ -31,8 +35,8 @@ https://github.com/ritchse/tidal-drum-machines
 ~dirt.loadSoundFiles(~drumMachinesDir ++ "/*/*", namingFunction: { |x| x.basename.replace("-","")});
 ```
 
-# Sensors
+## Sensors
 
-## Android app
+### Android app
 
 [app-debug.apk](app-debug.apk)
