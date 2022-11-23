@@ -1,5 +1,9 @@
 # SuperCollider
 
+## Startup file
+
+[startup.scd](startup.scd)
+
 ## DMX lighting
 
 [dmx-lighting.scd](dmx-lighting.scd)
@@ -7,6 +11,8 @@
 # TidalCycles
 
 ## Estuary
+
+Multi-user TidalCycles live coding online
 
 https://estuary.mcmaster.ca/
 
