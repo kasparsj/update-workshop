@@ -18,6 +18,8 @@ https://estuary.mcmaster.ca/
 
 [miditidal-samples](miditidal-samples)
 
+## Boot script (custom shortcuts and functions)
+
 ## Much more drummachine samples
 
 https://github.com/ritchse/tidal-drum-machines
