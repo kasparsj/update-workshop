@@ -37,9 +37,11 @@ https://github.com/ritchse/tidal-drum-machines
 
 ## Sensors
 
-### Android app
+### Android app (Sensor2OSC)
 
-[app-debug.apk](app-debug.apk)
+https://github.com/kasparsj/Sensor2OSC/
+
+[v0.1.0 debug APK](app-debug.apk)
 
 ### SensorVisualizer app
 
