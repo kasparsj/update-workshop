@@ -1,24 +1,37 @@
 // hello world
-// events
+// EVENTS
+().play
+(amp: 1).play
+
+// when SCLOrkSynths are loaded:
 (\instrument: "sosSnare", amp: 1).play
 
 // hello world 2
-// sintezators
+// SYNTHS
+x = { SinOsc.ar()*0.5 }.play;
+// frequency modulation FM
 x = { SinOsc.ar(SinOsc.ar(1/2).range(100, 800))*0.5 }.play;
+// noise
 y = { WhiteNoise.ar()*0.5 }.play;
+// other noise
 z = { Crackle.ar()*0.5 }.play;
 
 x.free;
 y.free;
+z.free;
 
-{ Impulse.ar(1, 0.0, 0.5, 0) }.play
+// impulse
+z = { Impulse.ar(1, 0.0, 0.5, 0) }.play
 
 
-// vienmēr:
+// AT ALL TIMES
 // "cmd+." kill all
 // "cmd+d" help
 
+// install plugin
 Quarks.install("SCLOrkSynths")
+
+// SCLOrkSynths plugin GUI
 SCLOrkSynths.gui
 
 (
