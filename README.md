@@ -24,11 +24,11 @@ We had problems running Troop and decided not to use it for performance.
 
 ### OSC VJ software
 
-## Resolume
+#### Resolume
 
 [Resolume OSC commands](https://resolume.com/download/Manual/OSC/OSC%20list.txt)
 
-## OSC_VJ
+#### OSC_VJ
 
 Download MacOS compiled binary here:
 
