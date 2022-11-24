@@ -2,10 +2,6 @@
 
 https://update.mplab.lv/
 
-## Performance
-
-See [Performance folder](Performance)
-
 ## SuperCollider
 
 See [SuperCollider folder](SuperCollider).
@@ -17,3 +13,11 @@ See [TidalCycles folder](TidalCycles)
 ## Sensors
 
 See [Sensors folder](Sensors)
+
+## OSC VJ
+
+See [OSC_VJ folder](OSC_VJ)
+
+## Performance
+
+See [Performance folder](Performance)
