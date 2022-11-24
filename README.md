@@ -8,6 +8,8 @@ We will be performing using Troop:
 
 https://github.com/Qirky/Troop
 
+[Download Windows executable(Download Client)](https://github.com/Qirky/Troop/releases)
+
 ## SuperCollider
 
 ### Startup file
