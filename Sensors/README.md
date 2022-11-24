@@ -1,6 +1,6 @@
 # Sensors
 
-We looked at an example how to receive motion sensor data from Android phones, Arduino microcontrollers and a Polar HR sensor.
+On day 3 we looked at an example how to receive motion sensor data from Android phones, Arduino microcontrollers and a Polar HR sensor.
 
 ## Android app (Sensor2OSC)
 

@@ -16,4 +16,4 @@ See [TidalCycles folder](TidalCycles)
 
 ## Sensors
 
-We talked about sending & receiving sensor data on day 3. All the materials are inside [Sensors folder](sensors).
+See [Sensors folder](Sensors)
