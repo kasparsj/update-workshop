@@ -4,11 +4,11 @@ https://update.mplab.lv/
 
 ## Performance
 
-We will be performing using Troop:
+We had problems running Troop and decided not to use it for performance.
 
-https://github.com/Qirky/Troop
-
-[Download Windows executable(Download Client)](https://github.com/Qirky/Troop/releases)
+~~We will be performing using Troop:~~
+~~https://github.com/Qirky/Troop~~
+~~[Download Windows executable(Download Client)](https://github.com/Qirky/Troop/releases)~~
 
 ## SuperCollider
 
