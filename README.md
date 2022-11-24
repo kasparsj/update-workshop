@@ -54,7 +54,7 @@ https://estuary.mcmaster.ca/
 
 https://github.com/ritchse/tidal-drum-machines
 
-```supercollider 
+```supercollider
 // inside your startup.scd add:
 // change the path
 ~drumMachinesDir = "/Users/kasparsj/Music/tidal-drum-machines/machines";
@@ -63,14 +63,4 @@ https://github.com/ritchse/tidal-drum-machines
 
 ## Sensors
 
-### Android app (Sensor2OSC)
-
-https://github.com/kasparsj/Sensor2OSC/
-
-[v0.1.0 debug APK](app-debug.apk)
-
-### SensorVisualizer app
-
-Also includes Arduino (M5StickC) code for sending motion sensor data.
-
-https://github.com/kasparsj/SensorVisualizer
+[Sensors](sensors)
