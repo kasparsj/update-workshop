@@ -8,6 +8,8 @@ Multi-user TidalCycles live coding online
 
 https://estuary.mcmaster.ca/
 
+Here is the full list of samples supported by Estuary:
+
 [miditidal-samples](miditidal-samples)
 
 ## Installation
