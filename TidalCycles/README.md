@@ -1,6 +1,6 @@
 # TidalCycles
 
-[Boot script (custom shortcuts and functions)](BootTidal)
+On day 1 we looked at Estuary.
 
 ## Estuary
 
@@ -9,6 +9,12 @@ Multi-user TidalCycles live coding online
 https://estuary.mcmaster.ca/
 
 [miditidal-samples](miditidal-samples)
+
+## Installation
+
+On day 2 we installed TidalCycles.
+
+[Boot script (custom shortcuts and functions)](BootTidal)
 
 ## More drummachine samples
 

@@ -4,13 +4,7 @@ https://update.mplab.lv/
 
 ## Performance
 
-We had problems running Troop and decided not to use it for performance.
-
-~~We will be performing using Troop:~~
-
-~~https://github.com/Qirky/Troop~~
-
-~~[Download Windows executable(Download Client)](https://github.com/Qirky/Troop/releases)~~
+See [Performance folder](Performance)
 
 ## SuperCollider
 
@@ -18,9 +12,7 @@ See [SuperCollider folder](SuperCollider).
 
 ## TidalCycles
 
-On day 1 we looked at Estuary.
-
-On day 2 we installed TidalCycles.
+See [TidalCycles folder](TidalCycles)
 
 ## Sensors
 
