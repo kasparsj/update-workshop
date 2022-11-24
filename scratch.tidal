@@ -1,6 +1,0 @@
-once $ sound "change_color/8"
-
-d1 $ s "moog:1"
-  # release 0.3
-
-d1 $ s "moog"
