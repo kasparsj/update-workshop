@@ -2,6 +2,12 @@
 
 https://update.mplab.lv/
 
+## Performance
+
+We will be performing using Troop:
+
+https://github.com/Qirky/Troop
+
 ## SuperCollider
 
 ### Startup file
@@ -11,6 +17,16 @@ https://update.mplab.lv/
 ### DMX lighting
 
 [dmx-lighting.scd](dmx-lighting.scd)
+
+### OSC VJ software
+
+Download MacOS compiled binary here:
+
+https://github.com/kasparsj/update-workshop/releases/tag/osc_vj_alpha
+
+GIT:
+
+https://github.com/kasparsj/osc_vj
 
 ## TidalCycles
 
