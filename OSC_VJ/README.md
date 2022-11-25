@@ -16,11 +16,11 @@ https://github.com/kasparsj/osc_vj/releases
 
 ### Intro
 
-[See intro.scd](intro.scd)
+[See 01-intro.scd](01-intro.scd)
 
 ### Sound analysis
 
-[See sound-data.scd](sound-data.scd)
+[See 02-sound-data.scd](02-sound-data.scd)
 
 ### Full commands list
 
