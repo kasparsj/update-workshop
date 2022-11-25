@@ -26,6 +26,8 @@ https://github.com/kasparsj/osc_vj/releases
 
 5. [Geometry](05-geom.scd)
 
+6. [Webcam looper](06-webcam-looper.scd)
+
 ### Keyboard shortcuts
 
 - `f` toggle fullscreen
