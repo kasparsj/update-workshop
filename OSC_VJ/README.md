@@ -36,6 +36,8 @@ https://github.com/kasparsj/osc_vj/releases
 
 - `d` toggle debug view
 
+- `g` toggle OpenGL info
+
 ### Full commands list
 
 https://github.com/kasparsj/osc_vj
