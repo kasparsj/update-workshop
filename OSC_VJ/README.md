@@ -20,7 +20,7 @@ https://github.com/kasparsj/osc_vj/releases
 
 ### Sound analysis
 
-[See sound-analysis.scd](sound-analysis.scd)
+[See sound-data.scd](sound-data.scd)
 
 ### Full commands list
 
