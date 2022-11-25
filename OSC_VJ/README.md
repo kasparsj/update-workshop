@@ -22,6 +22,8 @@ https://github.com/kasparsj/osc_vj/releases
 
 3. [Webcam delay](03-webcam-delay.scd)
 
+4. [Volumetric clouds shader](04-clouds.scd)
+
 ### Full commands list
 
 https://github.com/kasparsj/osc_vj
