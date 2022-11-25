@@ -14,13 +14,13 @@ Download latest version from releases:
 
 https://github.com/kasparsj/osc_vj/releases
 
-### Intro
+### Examples
 
-[See 01-intro.scd](01-intro.scd)
+1. [Intro](01-intro.scd)
 
-### Sound analysis
+2. [Sound data](02-sound-data.scd)
 
-[See 02-sound-data.scd](02-sound-data.scd)
+3. [Webcam delay](03-webcam-delay.scd)
 
 ### Full commands list
 
