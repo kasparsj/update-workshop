@@ -6,9 +6,9 @@
 
 ## OSC_VJ
 
-Download MacOS compiled binary here:
+Download latest version from:
 
-https://github.com/kasparsj/update-workshop/releases/tag/osc_vj_alpha
+https://github.com/kasparsj/osc_vj/releases
 
 Read the docs (GIT):
 
