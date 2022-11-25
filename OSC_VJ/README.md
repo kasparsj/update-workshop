@@ -24,6 +24,8 @@ https://github.com/kasparsj/osc_vj/releases
 
 4. [Volumetric clouds shader](04-clouds.scd)
 
+5. [Geometry](05-geom.scd)
+
 ### Keyboard shortcuts
 
 - `f` toggle fullscreen
