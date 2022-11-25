@@ -24,6 +24,12 @@ https://github.com/kasparsj/osc_vj/releases
 
 4. [Volumetric clouds shader](04-clouds.scd)
 
+### Keyboard shortcuts
+
+- `f` toggle fullscreen
+
+- `d` toggle debug view
+
 ### Full commands list
 
 https://github.com/kasparsj/osc_vj
