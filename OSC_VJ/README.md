@@ -6,10 +6,22 @@
 
 ## OSC_VJ
 
-Download latest version from:
+https://github.com/kasparsj/osc_vj
+
+### Install
+
+Download latest version from releases:
 
 https://github.com/kasparsj/osc_vj/releases
 
-Read the docs (GIT):
+### Intro
+
+[See intro.scd](intro.scd)
+
+### Sound analysis
+
+[See sound-analysis.scd](sound-analysis.scd)
+
+### Full commands list
 
 https://github.com/kasparsj/osc_vj
