@@ -10,12 +10,12 @@
 // unload all layers
 ~visuals.sendMsg('/tex', "*", "");
 
-// initialize OSC_VJ SoundStream (only amplitude analysis)
-~visuals.sendMsg('/sound/stream', 0);
+// initialize Microphone
+~visuals.sendMsg('/mic', 0, "Microphone");
 
 // run Spiral sketch with stroke alpha mapped to amplitude
 ~visuals.sendMsg('/tex', 0, "Spiral");
-~visuals.sendMsg('/tex/var', 0, "strokeAlpha", "amp:0", 20);
+~visuals.sendMsg('/tex/var', 0, "strokeAlpha", "mic:0", 20);
 
 // enable "easy" camera
 ~visuals.sendMsg('/cam', "easy");
