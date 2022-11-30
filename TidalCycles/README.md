@@ -30,3 +30,9 @@ https://github.com/ritchse/tidal-drum-machines
 ~drumMachinesDir = "/Users/kasparsj/Music/tidal-drum-machines/machines";
 ~dirt.loadSoundFiles(~drumMachinesDir ++ "/*/*", namingFunction: { |x| x.basename.replace("-","")});
 ```
+
+## Mutable Instruments synths
+
+It is possible to control software versions of Mutable instruments synthesizers from TidalCycles. Refer to:
+
+https://tidalcycles.org/docs/reference/mi-ugens/
