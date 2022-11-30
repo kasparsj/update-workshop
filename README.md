@@ -2,6 +2,10 @@
 
 https://update.mplab.lv/
 
+## Day 1 slides
+
+https://docs.google.com/presentation/d/1w7SZ-Hwjx5lPdYt0Zr3e0U5NsVy_GNC5V93tQairjXs/edit?usp=sharing
+
 ## SuperCollider
 
 See [SuperCollider folder](SuperCollider).
